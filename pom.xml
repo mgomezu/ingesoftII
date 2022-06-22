@@ -8,7 +8,7 @@
         <version>2.6.7</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>UNTutor</groupId>
+    <groupId>com.example</groupId>
     <artifactId>un-tutor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
