@@ -11,10 +11,11 @@
     <groupId>UNTutor</groupId>
     <artifactId>un-tutor</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <packaging>war</packaging>
     <name>un-tutor</name>
     <description>Página para asesorías académicas</description>
     <properties>
-        <java.version>11</java.version>
+        <java.version>1.8</java.version>
     </properties>
     <dependencies>
         <dependency>
